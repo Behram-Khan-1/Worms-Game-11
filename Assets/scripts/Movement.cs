@@ -85,7 +85,7 @@ public class Movement : MonoBehaviour
 
 
 
-            // transform.position = ray.point + ray.normal * groundOffset;
+            transform.position = ray.point + ray.normal * groundOffset;
 
             // rb.MoveRotation(Quaternion.LookRotation(Vector3.forward, ray.normal));
             // rb.MovePosition(ray.point + ray.normal * groundOffset);

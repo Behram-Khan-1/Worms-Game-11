@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 8ea6d8605824cbe41adf940f71c371fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3544672630196098007
+    second: hgrenade-removebg-preview_0
+  - first:
+      213: 2282743740197026348
+    second: hgrenade-removebg-preview_1
+  - first:
+      213: -2373277947240107585
+    second: hgrenade-removebg-preview_2
+  - first:
+      213: -8296577563393283760
+    second: hgrenade-removebg-preview_3
+  - first:
+      213: 3182781944227262540
+    second: hgrenade-removebg-preview_4
+  - first:
+      213: 1291911396230283966
+    second: hgrenade-removebg-preview_5
+  - first:
+      213: -1064069723782821260
+    second: hgrenade-removebg-preview_6
+  - first:
+      213: 228638739296032875
+    second: hgrenade-removebg-preview_7
+  - first:
+      213: 3220807033972723214
+    second: hgrenade-removebg-preview_8
+  - first:
+      213: 8591541349854120856
+    second: hgrenade-removebg-preview_9
+  - first:
+      213: -684081378158100071
+    second: hgrenade-removebg-preview_10
+  - first:
+      213: -8724118968109611198
+    second: hgrenade-removebg-preview_11
+  - first:
+      213: 5802998335847893377
+    second: hgrenade-removebg-preview_12
+  - first:
+      213: -2855563263409592265
+    second: hgrenade-removebg-preview_13
+  - first:
+      213: 5199301040890818724
+    second: hgrenade-removebg-preview_14
+  - first:
+      213: 4946267733216948070
+    second: hgrenade-removebg-preview_15
+  - first:
+      213: 4332383613153038041
+    second: hgrenade-removebg-preview_16
+  - first:
+      213: 6244607083397313828
+    second: hgrenade-removebg-preview_17
+  - first:
+      213: -3975614377842998005
+    second: hgrenade-removebg-preview_18
+  - first:
+      213: -8906635757719940405
+    second: hgrenade-removebg-preview_19
+  - first:
+      213: -8452457630194741778
+    second: hgrenade-removebg-preview_20
+  - first:
+      213: -46185415876857903
+    second: hgrenade-removebg-preview_21
+  - first:
+      213: -8539669045845249463
+    second: hgrenade-removebg-preview_22
+  - first:
+      213: -8376618830435292138
+    second: hgrenade-removebg-preview_23
+  - first:
+      213: 5112254084215351028
+    second: hgrenade-removebg-preview_24
+  - first:
+      213: 8548906787061490159
+    second: hgrenade-removebg-preview_25
+  - first:
+      213: -6754157852144554250
+    second: hgrenade-removebg-preview_26
+  - first:
+      213: 5941522258844990685
+    second: hgrenade-removebg-preview_27
+  - first:
+      213: -8744171314640527186
+    second: hgrenade-removebg-preview_28
+  - first:
+      213: 5609687543477349686
+    second: hgrenade-removebg-preview_29
+  - first:
+      213: -6247994149651188442
+    second: hgrenade-removebg-preview_30
+  - first:
+      213: 4496939376930959383
+    second: hgrenade-removebg-preview_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1879
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d353e70af4313130800000000000000
+      internalID: 3544672630196098007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1818
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ab0b3565fedaf10800000000000000
+      internalID: 2282743740197026348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1759
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb13c79f74c601fd0800000000000000
+      internalID: -2373277947240107585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1699
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059a77ac9a2acdc80800000000000000
+      internalID: -8296577563393283760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1640
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40713fa0538b2c20800000000000000
+      internalID: 3182781944227262540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1579
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2c59de19acde110800000000000000
+      internalID: 1291911396230283966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1519
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a4da1593aab31f0800000000000000
+      internalID: -1064069723782821260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1460
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6812a5d8b94c2300800000000000000
+      internalID: 228638739296032875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1399
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e060eceea92bc20800000000000000
+      internalID: 3220807033972723214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1340
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b822776594b3770800000000000000
+      internalID: 8591541349854120856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1278
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9914d696c97a186f0800000000000000
+      internalID: -684081378158100071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1216
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24744975504bde680800000000000000
+      internalID: -8724118968109611198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1155
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1898568ad34688050800000000000000
+      internalID: 5802998335847893377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1094
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e0d267500f58d0800000000000000
+      internalID: -2855563263409592265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1032
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0bd96efb0a72840800000000000000
+      internalID: 5199301040890818724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 971
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f6f520c4ca4a440800000000000000
+      internalID: 4946267733216948070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 911
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dec5b431f7bf1c30800000000000000
+      internalID: 4332383613153038041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 851
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f8c79e0d49a650800000000000000
+      internalID: 6244607083397313828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 792
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b058bbc79c7c3d8c0800000000000000
+      internalID: -3975614377842998005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 734
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc29f4db7f5456480800000000000000
+      internalID: -8906635757719940405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 675
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedc3318196d2ba80800000000000000
+      internalID: -8452457630194741778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 616
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df2bd4eb9aeb5ff0800000000000000
+      internalID: -46185415876857903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 558
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942bef67f300d7980800000000000000
+      internalID: -8539669045845249463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 500
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c6e011e8540cb80800000000000000
+      internalID: -8376618830435292138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 439
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f62233f00062f640800000000000000
+      internalID: 5112254084215351028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 379
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1e9b4cd61d3a670800000000000000
+      internalID: 8548906787061490159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2202f7396442a0800000000000000
+      internalID: -6754157852144554250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 259
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc388fc307847250800000000000000
+      internalID: 5941522258844990685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 199
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0e0b7948676a680800000000000000
+      internalID: -8744171314640527186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 139
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63da6e1791d99dd40800000000000000
+      internalID: 5609687543477349686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62572579c6aaa49a0800000000000000
+      internalID: -6247994149651188442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hgrenade-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710bf6a9986586e30800000000000000
+      internalID: 4496939376930959383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hgrenade-removebg-preview_0: 3544672630196098007
+      hgrenade-removebg-preview_1: 2282743740197026348
+      hgrenade-removebg-preview_10: -684081378158100071
+      hgrenade-removebg-preview_11: -8724118968109611198
+      hgrenade-removebg-preview_12: 5802998335847893377
+      hgrenade-removebg-preview_13: -2855563263409592265
+      hgrenade-removebg-preview_14: 5199301040890818724
+      hgrenade-removebg-preview_15: 4946267733216948070
+      hgrenade-removebg-preview_16: 4332383613153038041
+      hgrenade-removebg-preview_17: 6244607083397313828
+      hgrenade-removebg-preview_18: -3975614377842998005
+      hgrenade-removebg-preview_19: -8906635757719940405
+      hgrenade-removebg-preview_2: -2373277947240107585
+      hgrenade-removebg-preview_20: -8452457630194741778
+      hgrenade-removebg-preview_21: -46185415876857903
+      hgrenade-removebg-preview_22: -8539669045845249463
+      hgrenade-removebg-preview_23: -8376618830435292138
+      hgrenade-removebg-preview_24: 5112254084215351028
+      hgrenade-removebg-preview_25: 8548906787061490159
+      hgrenade-removebg-preview_26: -6754157852144554250
+      hgrenade-removebg-preview_27: 5941522258844990685
+      hgrenade-removebg-preview_28: -8744171314640527186
+      hgrenade-removebg-preview_29: 5609687543477349686
+      hgrenade-removebg-preview_3: -8296577563393283760
+      hgrenade-removebg-preview_30: -6247994149651188442
+      hgrenade-removebg-preview_31: 4496939376930959383
+      hgrenade-removebg-preview_4: 3182781944227262540
+      hgrenade-removebg-preview_5: 1291911396230283966
+      hgrenade-removebg-preview_6: -1064069723782821260
+      hgrenade-removebg-preview_7: 228638739296032875
+      hgrenade-removebg-preview_8: 3220807033972723214
+      hgrenade-removebg-preview_9: 8591541349854120856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

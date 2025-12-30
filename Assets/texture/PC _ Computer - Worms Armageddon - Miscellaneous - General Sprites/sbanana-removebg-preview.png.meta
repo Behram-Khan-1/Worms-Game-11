@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 9f262a23977ef70408ab33701d799ac9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6122538214547793011
+    second: sbanana-removebg-preview_0
+  - first:
+      213: 2083471528135757066
+    second: sbanana-removebg-preview_1
+  - first:
+      213: 4916731746549995143
+    second: sbanana-removebg-preview_2
+  - first:
+      213: 6088258470101714816
+    second: sbanana-removebg-preview_3
+  - first:
+      213: -3434121216068893801
+    second: sbanana-removebg-preview_4
+  - first:
+      213: -4178334615133488460
+    second: sbanana-removebg-preview_5
+  - first:
+      213: 2827116594872555678
+    second: sbanana-removebg-preview_6
+  - first:
+      213: -1837798179493578846
+    second: sbanana-removebg-preview_7
+  - first:
+      213: -3147755788590246137
+    second: sbanana-removebg-preview_8
+  - first:
+      213: -1887858414806327102
+    second: sbanana-removebg-preview_9
+  - first:
+      213: -7423647911886035311
+    second: sbanana-removebg-preview_10
+  - first:
+      213: -7290132652732641447
+    second: sbanana-removebg-preview_11
+  - first:
+      213: -5534233821086093865
+    second: sbanana-removebg-preview_12
+  - first:
+      213: 4789097434812006166
+    second: sbanana-removebg-preview_13
+  - first:
+      213: -7225571380053401255
+    second: sbanana-removebg-preview_14
+  - first:
+      213: -372583199699893027
+    second: sbanana-removebg-preview_15
+  - first:
+      213: -6579523187084367719
+    second: sbanana-removebg-preview_16
+  - first:
+      213: 6818495803556319219
+    second: sbanana-removebg-preview_17
+  - first:
+      213: 7895970645973914022
+    second: sbanana-removebg-preview_18
+  - first:
+      213: -2314859847638886158
+    second: sbanana-removebg-preview_19
+  - first:
+      213: 9222276124691776743
+    second: sbanana-removebg-preview_20
+  - first:
+      213: 9014124925095630091
+    second: sbanana-removebg-preview_21
+  - first:
+      213: 877354137805671430
+    second: sbanana-removebg-preview_22
+  - first:
+      213: 9011213397838564446
+    second: sbanana-removebg-preview_23
+  - first:
+      213: 572391417362475384
+    second: sbanana-removebg-preview_24
+  - first:
+      213: -1721559068783499148
+    second: sbanana-removebg-preview_25
+  - first:
+      213: -6747340694086314750
+    second: sbanana-removebg-preview_26
+  - first:
+      213: 9187071115479157039
+    second: sbanana-removebg-preview_27
+  - first:
+      213: -1474716677055382336
+    second: sbanana-removebg-preview_28
+  - first:
+      213: 246715399680938734
+    second: sbanana-removebg-preview_29
+  - first:
+      213: 7903031868262526514
+    second: sbanana-removebg-preview_30
+  - first:
+      213: 7256927710776853128
+    second: sbanana-removebg-preview_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 937
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bdf16beef580ba0800000000000000
+      internalID: -6122538214547793011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 907
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d0c2ee05af9ec10800000000000000
+      internalID: 2083471528135757066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 877
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7869ff8397dbb3440800000000000000
+      internalID: 4916731746549995143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 847
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0870d2352d6dd7450800000000000000
+      internalID: 6088258470101714816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 819
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793c490e2fc8750d0800000000000000
+      internalID: -3434121216068893801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 789
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4baff382ec29306c0800000000000000
+      internalID: -4178334615133488460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 760
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e989df7709feb3720800000000000000
+      internalID: 2827116594872555678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 729
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7fc66fa44de76e0800000000000000
+      internalID: -1837798179493578846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 701
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707166da9cce054d0800000000000000
+      internalID: -3147755788590246137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 670
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0ac3726cafcc5e0800000000000000
+      internalID: -1887858414806327102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 639
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196667a6e87e9f890800000000000000
+      internalID: -7423647911886035311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 608
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f05642afe34da90800000000000000
+      internalID: -7290132652732641447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 578
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde53e49a37233b0800000000000000
+      internalID: -5534233821086093865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 547
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f34b44eba467240800000000000000
+      internalID: 4789097434812006166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 517
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95120b0dc1d99bb90800000000000000
+      internalID: -7225571380053401255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 487
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd40c9ccd8154daf0800000000000000
+      internalID: -372583199699893027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 457
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998e36a6586d0b4a0800000000000000
+      internalID: -6579523187084367719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 427
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff4771bec920ae50800000000000000
+      internalID: 6818495803556319219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1df26c77f149d60800000000000000
+      internalID: 7895970645973914022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 368
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f85ba4bb37ffdfd0800000000000000
+      internalID: -2314859847638886158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 339
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4c1d0164b1cff70800000000000000
+      internalID: 9222276124691776743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 309
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d1594cda981d70800000000000000
+      internalID: 9014124925095630091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 279
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c402e90fcfc2c00800000000000000
+      internalID: 877354137805671430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 248
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c886587d24e0d70800000000000000
+      internalID: 9011213397838564446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 218
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796f5026fa81f700800000000000000
+      internalID: 572391417362475384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 189
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478ae4de52bcb18e0800000000000000
+      internalID: -1721559068783499148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 159
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205927e3361ac52a0800000000000000
+      internalID: -6747340694086314750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29036c11880f7f70800000000000000
+      internalID: 9187071115479157039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccf4cfdef0c88be0800000000000000
+      internalID: -1474716677055382336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d99e49528c6300800000000000000
+      internalID: 246715399680938734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e2164bc953dad60800000000000000
+      internalID: 7903031868262526514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sbanana-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8820b89dd49c5b460800000000000000
+      internalID: 7256927710776853128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sbanana-removebg-preview_0: -6122538214547793011
+      sbanana-removebg-preview_1: 2083471528135757066
+      sbanana-removebg-preview_10: -7423647911886035311
+      sbanana-removebg-preview_11: -7290132652732641447
+      sbanana-removebg-preview_12: -5534233821086093865
+      sbanana-removebg-preview_13: 4789097434812006166
+      sbanana-removebg-preview_14: -7225571380053401255
+      sbanana-removebg-preview_15: -372583199699893027
+      sbanana-removebg-preview_16: -6579523187084367719
+      sbanana-removebg-preview_17: 6818495803556319219
+      sbanana-removebg-preview_18: 7895970645973914022
+      sbanana-removebg-preview_19: -2314859847638886158
+      sbanana-removebg-preview_2: 4916731746549995143
+      sbanana-removebg-preview_20: 9222276124691776743
+      sbanana-removebg-preview_21: 9014124925095630091
+      sbanana-removebg-preview_22: 877354137805671430
+      sbanana-removebg-preview_23: 9011213397838564446
+      sbanana-removebg-preview_24: 572391417362475384
+      sbanana-removebg-preview_25: -1721559068783499148
+      sbanana-removebg-preview_26: -6747340694086314750
+      sbanana-removebg-preview_27: 9187071115479157039
+      sbanana-removebg-preview_28: -1474716677055382336
+      sbanana-removebg-preview_29: 246715399680938734
+      sbanana-removebg-preview_3: 6088258470101714816
+      sbanana-removebg-preview_30: 7903031868262526514
+      sbanana-removebg-preview_31: 7256927710776853128
+      sbanana-removebg-preview_4: -3434121216068893801
+      sbanana-removebg-preview_5: -4178334615133488460
+      sbanana-removebg-preview_6: 2827116594872555678
+      sbanana-removebg-preview_7: -1837798179493578846
+      sbanana-removebg-preview_8: -3147755788590246137
+      sbanana-removebg-preview_9: -1887858414806327102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
